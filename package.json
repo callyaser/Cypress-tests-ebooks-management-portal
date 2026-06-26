@@ -1,0 +1,12 @@
+{
+  "name": "powerside-testing-challenge",
+  "version": "1.0.0",
+  "description": "Cypress E2E test suite for the Powerside QA challenge app",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.18.0"
+  }
+}
