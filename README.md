@@ -1,5 +1,3 @@
-# Powerside Testing Challenge
-
 ## What This Repository Contains
 
 | Path | Contents |
